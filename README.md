@@ -1,13 +1,10 @@
 # (0-9) MNIST Digit Draw & Predict
 
-I know this Project is much Older than me , But as a newbie just getting into Deep Learning , Learning Perceptrons and Neural Netwoks.
-This project was fun as im testing my computer to recognize digits like i used to test small kids when they start to learn digits and Alphabets😂
+I know this project is much older than me, but as a newbie just getting into Deep Learning, learning about Perceptrons and Neural Networks, this was a fun experiment. It felt like testing my computer to recognize digits — just like how we test little kids when they’re learning numbers and alphabets 😂
 
+I implemented Stochastic Gradient Descent (SGD) on a tiny neural network with two hidden layers, built completely from scratch using NumPy (no TensorFlow or Keras 👍). The network achieved a “terrible” 95.4% accuracy, and sometimes mistakes 7 for 3 or 4 — whatever 😅.
 
-I have Implemented SGD on a tiny neural network with two hidden layers. I have implemented it from scratch using only NumPY , no tensorflow and keras 👍.
-The Network had achieved a terrible 95.4% Accuracy and sometimes may recognize 7 as 3 or 4 whatever 
-Looking Forward to learn CNN's and wil try to achieve a 98+ Accuracy.
-
+Looking forward to diving into CNNs next and hopefully pushing that accuracy past 98%!
 
 ---
 
