@@ -1,4 +1,4 @@
-🧠 MNIST Digit Draw & Predict
+🧠 ## MNIST Digit Draw & Predict
 
 A small web app where you can draw a digit (0–9) and the app will predict it using a simple neural network trained on the MNIST dataset — built completely from scratch (no TensorFlow/Keras models, just NumPy math and some Python magic ✨).
 
