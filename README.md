@@ -67,6 +67,8 @@ If predictions don’t show up, check your **Flask logs** or browser console for
 ---
 
  
+Just a snippet from the testing.
+<img width="1534" height="917" alt="Screenshot 2025-10-27 135607" src="https://github.com/user-attachments/assets/97c34323-b1e8-4828-97d0-2637cddc19b9" />
 
  
  
