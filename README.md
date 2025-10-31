@@ -4,7 +4,7 @@ I know this project is much older than me, but as a newbie just getting into Dee
 
 I implemented Stochastic Gradient Descent (SGD) on a tiny neural network with two hidden layers, built completely from scratch using NumPy (no TensorFlow or Keras 👍). The network achieved a “terrible” 95.4% accuracy, and sometimes mistakes 7 for 3 or 4 — whatever 😅.
 
-Looking forward to diving into CNNs next and hopefully pushing that accuracy past 98%!
+Looking forward to diving into CNNs next and hopefully pushing that accuracy past 98%+
 
 ---
 
